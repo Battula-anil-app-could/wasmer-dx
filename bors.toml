@@ -1,5 +1,5 @@
 status = [
-    "ElrondNetwork.wasmer"
+    "Battula-anil-app-could/wasmer-dx"
     "continuous-integration/travis-ci/push"
 ]
 required_approvals = 1

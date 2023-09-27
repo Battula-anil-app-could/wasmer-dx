@@ -1,0 +1,10 @@
+/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/deps/libstructopt_derive-a96b46ebaf459f3d.so: /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/lib.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/attrs.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/doc_comments.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/parse.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/spanned.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/ty.rs
+
+/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/deps/structopt_derive-a96b46ebaf459f3d.d: /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/lib.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/attrs.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/doc_comments.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/parse.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/spanned.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/ty.rs
+
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/lib.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/attrs.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/doc_comments.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/parse.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/spanned.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.10/src/ty.rs:
