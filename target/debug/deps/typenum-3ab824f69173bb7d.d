@@ -1,0 +1,18 @@
+/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/deps/typenum-3ab824f69173bb7d.rmeta: /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/lib.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/bit.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/int.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/marker_traits.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/operator_aliases.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/private.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/type_operators.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/uint.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/array.rs /home/magnus/Desktop/rust\ modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/op.rs /home/magnus/Desktop/rust\ modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/consts.rs
+
+/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/deps/typenum-3ab824f69173bb7d.d: /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/lib.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/bit.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/int.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/marker_traits.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/operator_aliases.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/private.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/type_operators.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/uint.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/array.rs /home/magnus/Desktop/rust\ modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/op.rs /home/magnus/Desktop/rust\ modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/consts.rs
+
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/lib.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/bit.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/int.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/marker_traits.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/operator_aliases.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/private.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/type_operators.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/uint.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/array.rs:
+/home/magnus/Desktop/rust\ modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/op.rs:
+/home/magnus/Desktop/rust\ modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/op.rs

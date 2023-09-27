@@ -1,0 +1,11 @@
+/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/deps/regex_automata-5ef0df6b8513597a.rmeta: /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/lib.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/classes.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/dense.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/dfa.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/regex.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/sparse.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/state_id.rs
+
+/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/deps/regex_automata-5ef0df6b8513597a.d: /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/lib.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/classes.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/dense.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/dfa.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/regex.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/sparse.rs /home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/state_id.rs
+
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/lib.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/classes.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/dense.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/dfa.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/regex.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/sparse.rs:
+/home/magnus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.9/src/state_id.rs:

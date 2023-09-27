@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/magnus/Desktop/rust modifiers/wasmer-dx/target/debug/build/typenum-04f42716fd9dd143/out/op.rs
